@@ -5,7 +5,7 @@ The code is to reproduce the results in the paper ‘Interaction of “Solitons�
 [![TE](https://i.imgur.com/7HmQU8z.png)](https://www.youtube.com/watch?v=lxDQk1vnte4 "TE")
 
 # Method and Algorithm
-![MA](https://i.imgur.com/fn9DdIQ.png){ width: 200px; }
+![MA](https://i.imgur.com/fn9DdIQ.png)
 
 ![PA](https://i.imgur.com/E5OBqf4.png)
  
